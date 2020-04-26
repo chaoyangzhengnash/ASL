@@ -1,4 +1,4 @@
-# ASL
+# NN (sklearn in Python) ordinal decomposition of Y and grid search optimization of the hyperparameters
 ## 1. Introduction
 In the presence of ordinal target variables, traditional applications of machine learning classifiers would treat
 each class as nominal values, therefore those standard classification algorithms cannot utilize the advantage of
