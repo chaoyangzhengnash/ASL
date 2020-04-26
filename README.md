@@ -84,3 +84,15 @@ run it on the test dataset to get prediction.
 ## 6. Critical thinking
 One of the major flaw of this approach is that since each classifier are trained independently, each of them are
 independent from each other, the method won’t give the true probability as well (it won’t sum up to 1)
+
+## References:
+Eibe Frank and Mark Hall (2001)A Simple Approach to Ordinal Classification,
+https://www.cs.waikato.ac.nz/~eibe/pubs/ordinal_tech_report.pdf
+
+J. Sánchez-Monedero, P. A. Gutiérrez and M. Pérez-Ortiz, "ORCA: A Matlab/Octave Toolbox for Ordinal
+Regression", Journal of Machine Learning Research. Vol. 20. Issue 125. 2019. http://jmlr.org/papers/v20/18-
+349.html
+
+Fabian Pedregosa-Izquierdo. Feature extraction and supervised learning on fMRI : from practice to theory.
+Medical Imaging. Université Pierre et Marie Curie - Paris VI, 2015. English. ⟨NNT : 2015PA066015⟩. ⟨tel-
+01100921v2⟩
